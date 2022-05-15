@@ -11,4 +11,5 @@ Create your projecy
 // git add filenames (or git add .) ======> add all your changes to staging
 // git commit -m "write your message here" 
 
+//to see all your commit messages use git log
 
