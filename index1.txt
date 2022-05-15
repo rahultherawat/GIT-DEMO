@@ -1,1 +1,14 @@
 Hi my name is Sunil
+
+// installed git
+// git config --global user.name "srivastavaaviral1" 
+// git config --global user.email "srivastavaaviral1@gmail.com" 
+
+Create your projecy
+// go inside your project
+// git init ====> (initiale git in your projrct, 1 time thing)
+// make changes
+// git add filenames (or git add .) ======> add all your changes to staging
+// git commit -m "write your message here" 
+
+
