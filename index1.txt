@@ -4,7 +4,7 @@ Hi my name is Sunil
 // git config --global user.name "srivastavaaviral1" 
 // git config --global user.email "srivastavaaviral1@gmail.com" 
 
-Create your projecy
+Create your project
 // go inside your project
 // git init ====> (initiale git in your projrct, 1 time thing)
 // make changes
@@ -18,5 +18,5 @@ Create your projecy
 TO PUSH ON GITHUB USE:
 
 git remote add origin https://github.com/srivastavaaviral1/GIT-DEMO.git
-git-demo git:(master) git branch -M main
+git-demo git:(master) git branch -M master
 git-demo git:(main) git push -u origin main
