@@ -13,3 +13,10 @@ Create your projecy
 
 //to see all your commit messages use git log
 // to go to any particular commit use git checkout "commit number"
+
+
+TO PUSH ON GITHUB USE:
+
+git remote add origin https://github.com/srivastavaaviral1/GIT-DEMO.git
+git-demo git:(master) git branch -M main
+git-demo git:(main) git push -u origin main
