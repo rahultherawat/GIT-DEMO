@@ -17,6 +17,10 @@ Create your project
 
 TO PUSH ON GITHUB USE:
 
-git remote add origin https://github.com/srivastavaaviral1/GIT-DEMO.git
-git-demo git:(master) git branch -M master
-git-demo git:(main) git push -u origin main
+git remote add origin https://github.com/srivastavaaviral1/GIT-DEMO.git (add a rempote address for your local project)
+git-demo git:(master) git branch -M master (name the branch you want to push to remote)
+git-demo git:(main) git push -u origin main (push that code on origin and the branch name)
+
+
+
+
